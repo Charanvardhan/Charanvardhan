@@ -78,7 +78,6 @@ I’m **Charanvardhan Mannuru**, a **Machine Learning Engineer & Data Scientist*
 
 ### 📊 GitHub Stats
 
-![Charan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Charanvardhan&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charanvardhan&layout=compact&theme=radical)  
 
 ---
