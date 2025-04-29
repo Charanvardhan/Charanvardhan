@@ -7,7 +7,7 @@
 I’m **Charanvardhan Mannuru**, a **Machine Learning Engineer & Data Scientist** and MS Candidate in Computer & Information Science at UGA.
 
 - 🎓 **MS in Computer Science**, University of Georgia (GPA: 3.84/4.0)  
-- 🧑‍💻 **Graduate Teaching Assistant** & **Research Assistant** at UGA  
+- 🧑‍💻 **Graduate Research Assistant** at UGA  
 - 🤖 **2+ years** of experience building NLP, RAG & differential privacy pipelines  
 - ☁️ Skilled in deploying AI/ML at scale on AWS, Azure & GCP  
 
