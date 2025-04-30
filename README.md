@@ -23,8 +23,7 @@ I’m **Charanvardhan Mannuru**, a **Machine Learning Engineer & Data Scientist*
 ### 🚀 Let’s Collaborate On
 
 - 🤖 Machine Learning & Deep Learning Projects  
-- 🧠 NLP, Retrieval-Augmented Generation & Differential Privacy  
-- 🔒 Cybersecurity Analytics & Real-Time Threat Detection  
+- 🧠 NLP, Retrieval-Augmented Generation & Differential Privacy   
 - 🌐 Full-Stack AI-Driven Application Development  
 
 ---
@@ -32,7 +31,7 @@ I’m **Charanvardhan Mannuru**, a **Machine Learning Engineer & Data Scientist*
 ### 🛠 Currently Exploring
 
 > Integrating **AI agents** into production workflows  
-> Tools: `LangChain`, `LlamaIndex`, `OpenAI APIs`, `FastAPI`, `JAX`, `PyTorch`, `Docker`
+> Tools: `LangChain`, `LlamaIndex`, `OpenAI APIs`, `FastAPI`, `PyTorch`, `Docker`
 
 ---
 
